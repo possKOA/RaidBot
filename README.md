@@ -12,6 +12,8 @@ Based off [this](https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/
 
 4. cd to the repo
 
+4.1 Ask me for the token in `auth.json`.
+
 5. Type this command `$ npm install discord.io winston –save`
 
 6. Now this one `$ npm install https://github.com/woor/discord.io/tarball/gateway_v6`
